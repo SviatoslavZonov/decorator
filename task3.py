@@ -23,7 +23,9 @@ class FlatIterator:
 
     path = 'logs/main.log'
     if os.path.exists(path):
-        os.remove(path)
+        with open('logs/main.log', 'a') as file:
+            data = "\n New logs in task №3: \n"
+            file.write(data)
     @logger
     def __next__(self):
         self.cursor += 1
