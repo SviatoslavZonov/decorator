@@ -1,0 +1,6 @@
+gitignore/
+.idea/
+tmp/
+*_old
+*_backup
+__pycache__/

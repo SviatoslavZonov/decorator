@@ -1,0 +1,46 @@
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned a.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned b.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned c.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned d.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned e.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned f.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned h.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned False.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned 1.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned 2.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned None.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB63777D0>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned a.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned b.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned c.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned d.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned e.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned f.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned h.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned False.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned 1.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned 2.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> returned None.
+10-03-2024 23:16:19 Function <function FlatIterator.__next__ at 0x000001EEB63953A0> started with arguments (<__main__.FlatIterator object at 0x000001EEB611A330>,), {}.
